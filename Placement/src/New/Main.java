@@ -24,6 +24,8 @@ public class Main {
         for (int i = 0; i < k; i++) {
             System.out.print(sortedList.get(i).getKey() + " ");
         }
+        scanner.close();
     }
+   
 }
 
